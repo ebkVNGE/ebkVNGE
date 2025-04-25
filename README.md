@@ -24,7 +24,7 @@ Tools:         Git • VS Code • Postman • Docker
 
 ## 🌐 Check Us Out
 
-- 💼 Showcase/Website: rev-3.vercel.app
+- 💼 Showcase/Website: https://rev-3.vercel.app
 - 📬 Email: vxryfxckinrxre@gmail.com
 - 🤝 Open to freelance work, partnerships, and cool dev collabs!
 
