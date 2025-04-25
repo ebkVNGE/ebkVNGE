@@ -28,8 +28,7 @@ Tools:         Git • VS Code • Postman • Docker
 - 📬 Email: vxryfxckinrxre@gmail.com
 - 🤝 Open to freelance work, partnerships, and cool dev collabs!
 
-## 📊 GitHub Stats
-<details> <summary>🌞 Light Mode</summary> <img src="https://github-readme-stats.vercel.app/api?username=VNGE&show_icons=true&theme=default" alt="VNGE GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNGE&layout=compact&theme=default" alt="VNGE Top Languages" /> </details> <details> <summary>🌚 Dark Mode</summary> <img src="https://github-readme-stats.vercel.app/api?username=VNGE&show_icons=true&theme=radical" alt="VNGE GitHub stats dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VNGE&layout=compact&theme=radical" alt="VNGE Top Languages dark" /> </details>
+
 “First, solve the problem. Then, write the code.” – John Johnson
 
 Thanks for stopping by! Let’s build something awesome 🚀✨
